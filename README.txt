@@ -1,0 +1,1 @@
+Desafio nº 2 do oracle next education, dessa vez é um jogo da forca com javascript, css e html!
